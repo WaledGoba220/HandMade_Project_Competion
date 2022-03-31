@@ -1,4 +1,4 @@
-# HandMade_Project_Competion
-HandMade Project Competion
+# HandMade_Project_competition
+HandMade Project competition
 
 Solution Challenge
